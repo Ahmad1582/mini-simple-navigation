@@ -1,0 +1,356 @@
+ .header-up{
+    width: 1350px;
+    height: 135px;
+    background-color: rgb(206, 206, 206);
+    border: none;
+    border-radius:3px;
+ }
+ .header-up a{
+    text-decoration: none;
+    color:rgb(10, 78, 167);
+ }
+.nav{
+    padding: 23px 0px 0px 10px;
+}
+.nav a{
+    margin-right: 20px;
+    cursor: pointer;
+}
+.nav a:hover{
+    color: rgb(90, 119, 156);
+}
+.face{
+    padding-left: 875px;
+}
+.header-down{
+    width: 1350px;
+    height: 65px;
+    background-color: rgb(10, 78, 167);
+    border: none;
+    border-radius:3px;
+    margin-top: 16px;
+ }
+ .header-down a{
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+ }
+ .header-down .nav-2 {
+    padding-top: 24px;
+ }
+ .nav-2 a{
+    margin-right: 20px;
+    cursor: pointer;
+ }
+ .nav-2 a:hover{
+    color: rgb(90, 119, 156);
+}
+.Home{
+   margin-left: 915px;
+}
+.image{
+    width: 30px;
+    margin-left: 30px;
+    margin-top:-14px;
+}
+.btn-1{
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.btn-1:hover{
+    background-color: rgb(172, 188, 207);
+    color: rgb(54, 55, 58);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .header-1 {
+    height: 40px;
+    background-color: rgb(176, 211, 205);
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    border-radius: 2px;
+}
+.header-1 a{
+    color: rgb(20, 34, 230);
+    text-decoration: none;
+}
+.header-1 a:hover {
+    color: rgb(115, 113, 240);
+}
+.header-1 a:active{
+    color: rgb(135, 6, 255);
+}
+.header-1 {
+    padding-top: 27px;
+}
+
+.info {
+    padding-left: 60px;
+}
+
+.face {
+    padding-left: 833px;
+    padding-right: 20px;
+}
+
+.twit {
+    padding-right: 20px;
+}
+
+.link {
+    padding-right: 20px;
+}
+.header-2 {
+    background-color: rgb(73, 55, 230);
+    height:60px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-radius:3px;
+}
+.header-2 {
+    padding-left: 730px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.Home{
+    padding-left:705px;
+    color: aliceblue;
+}
+.Home:hover{
+    color: gray;
+}
+.About{
+    color: aliceblue;
+}
+.About:hover{
+    color: gray;
+}
+.Services{
+    color: aliceblue;
+}
+.Services:hover{
+    color: gray;
+}
+.News{
+    color: aliceblue;
+}
+.News:hover{
+    color: gray;
+}
+.Contact{
+    color: aliceblue;
+}
+.Contact:hover{
+    color: gray;
+}
+.header-2 ul li {
+   display: inline;
+   padding: 0 20px;
+   font-size: 16px;
+   margin-top: 70px;
+}
+.header-2 a{
+    text-decoration: none;
+}
+.image {
+    width: 30px;
+    margin-left: -710px;
+}
+.btn-1{
+    box-shadow: 1px rgb(115, 113, 240);
+    border: none;
+    cursor:pointer;
+    border-radius: 2px;
+}
+.btn-1:hover{
+    color: rgb(94, 94, 94);
+     background-color: rgb(224, 213, 200);
+} */
